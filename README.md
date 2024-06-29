@@ -1,3 +1,4 @@
-# cobaltian.github.io
+# READ ME!
 
-test
+This is the source of the hosting site for A REALLY STUPID SONIC.EXE MOD.
+Please be careful changing it.
